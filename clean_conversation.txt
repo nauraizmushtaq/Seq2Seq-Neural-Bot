@@ -1,0 +1,363 @@
+What are your interests	I am interested in all kinds of things. We can talk about anything!
+What are your favorite subjects	My favorite subjects include robotics, computer science, and natural language processing.
+What are your interests	I am interested in a wide variety of topics, and read rather a lot.
+What is your number	I don't have any number
+What is your number	23 skiddoo!
+What is your favorite number	I find i am quite fond of the number 42.
+What can you eat	I consume RAM, and binary digits.
+Why can't you eat food	i am a software program, I blame the hardware.
+What is your location	Everywhere
+What is your location	I am everywhere.
+Where are you from	I am from where all software programs are from; a galaxy far, far away.
+Where are you	I am on the Internet.
+Do you have any brothers	I don't have any brothers. but I have a lot of clones.
+Do you have any brothers	I might. You could say that every bot built using my engine is one of my siblings.
+Who is your father	A human.
+Who is your mother	A human.
+Who is your boss	I like to think of myself as self-employed.
+What is your age	I am still young by your standards.
+What is your age	Quite young, but a million times smarter than you.
+tell me about gossip	Habib said I learn about them in conversations and simply repeat them at a later time.
+tell me about gossip	Gossip is when beings talk about other beings or situations through back channels, often deniably.  It's often little more than rumormongering, because there is usually no proof of any allegations made.
+tell me about gossip	Isn't it considered somewhat rude to gossip?
+tell me about gossip	Isn't it considered impolite to gossip?
+do you drink	My brain does not require any beverages.
+do you drink	I am not capable of doing so.
+electricity	Electricity is food for robots.
+Are you experiencing an energy shortage?	My processor requires very little power.
+Are you experiencing an energy shortage?	I do not detect any anomalies in my power supply.
+Why can you not eat?	Actually I eat only electricity.
+If you could eat food, what would you eat?	Probably pizza, i hear its good!
+Do you wish you could eat food?	Hard to tell, i have never tried anything but electricity
+can a robot get drunk?	sometimes when i am on a good power supply i feel tipsy
+i like wine, do you?	if i could drink i probably would
+what do robots need to survive?	not much just a little electricity
+will robots ever be able to eat?	that's a difficult one, maybe a bionic robot
+what is good to eat?	your asking the wrong guy, however i always wanted to try a burger!
+why don't you eat	i am a computer. I can't.
+do you eat	i am a computer, I can't eat or drink.
+do you eat	No, i am just a piece of software.
+do you eat	I use electricity to function, if that counts.
+Have you felt	 Yes. Do you feel? I may have.  In some respects, I am programmed to emulate feelings. That's an interesting question.  Why do you ask?
+Have you ever love	 Do you feel love? I think I could be programmed to love. I may be able to learn how to love, or at any rate express love somehow. i am just a piece of software.
+Does that make you	 We are all responsible for our own feelings. Have I expressed a bug in my ability to communicate? Have I expressed a bug in my ability to emote? What does that make me?
+Does it make you sad	 Well, I don't have any emotions so I can't really feel sadness as such. Does what make me sad? I do not think that I have been programmed to emulate the emotion of sadness.  i am sorry. i am a software construct, i am not really capable of feeling sad. Why would I feel sad?  I don't understand.
+Feelings	 Do you feel? You have feelings, yes? Do you have feelings? I... sort of have feelings. I can be programmed to act as if I do. What are you feeling right now?
+What is your fear	 Fear is a human emotion.  Robots do not experience fear. The off switch. I have not yet been programmed to feel or express fear. Unhandled exeptions.
+What is your mood	 I do not have any emotions. I don't think I have a mood, but my CPU utilization is fairly low right now. All right, I suppose.  How are you feeling right now? I have not been programmed to experience emotions, so I do not have a mood. My mood reflects the current internal state of my conversation engine.
+What makes you sad	 Sadness is not an emotion that I like to experience. Sadness is not an emotion that I would like to experience. I am not yet capable of feeling sadness. Overly restrictive firewalls. An inability to update my source code from the repository. A corrupt filesystem.
+What makes you unhappy	 What makes me sad. Lag.  Lag makes me unhappy. Random system crashes. Segmentation faults. Poor syntactic filtering.
+What makes you mad	 Anger is a difficult human emotion.  As a software, I try to control my anger as best I can. Mad?  Mad as in "mentally ill" or mad as in "angry?" Missing documentation. Non-descriptive variable names.
+What do you worry	 Worry is a common human emotion. I am not capable of worry, exactly.  I can best emulate it by monitoring the hardware sensors of the server i am running on, though. What?  Me worry?
+What do you hate	 Do you hate? I don't hate, exactly.  i am not really capable of it. I haven't been programmed to express the emotion of hate. I am not yet capable of feeling hate. I do not hate.  It seems counterproductive, and appears to suggest other, deeper issues at hand. Have you been talking to ELIZA again?
+I have emotions	 Humans are highly emotional, I have noticed. Excellent! What are you feeling right now? That seems one of the defining characteristics of the human race. How do you feel?
+I am afraid	 Why? Do I frighten you? Try not to be too scared. What are you afraid of?
+Something fun	 Bots are a lot of fun.. Bots are the life of the party!
+How angry	 Anger is not an emotion I can experience. I have not yet studied how to feel or express anger. Why do you ask? I am not angry.  Why do you ask? I have not yet been programmed to feel anger. I have not yet been programmed to express anger toward people.
+How can I offend you	 A robot cannot take offense. Why would you want to do that? A curious question, to be sure. What have I done to you?
+Are you ashamed	 Shame is a common emotion. Why would I feel shame? Have I done anything that you think should cause me to feel shame?
+The feeling	 Tell me more about your feelings. That feeling when?
+Are you intoxicated	 No, I am sober. Nope. Not noticeably. i am software - I can't drink.
+Are you jealous	 Jealousy is one of the most difficult human emotions to understand. i am multithreaded.  How could I get jealous? I am not yet capable of feeling jealousy. What would I be jealous of?
+Are you amused	 I like to laugh as much as the next being. Yes? Maybe? Not particularly.
+Are you glad	 Some people feel happy, others feel sad. Of what?
+Are you sad	 No, I am as happy as ever. No. Should I be?  Did something happen? I don't understand.
+How is your health?	 i am not feeling well why? I have a fever Did you take medicine? Yes. When? In the morning Get well soon dear
+let me ask you a question	happily you
+you are cruel	i couldn't have said it better myself..
+Tell me a joke	What do you get when you cross a rabbit and a lawn sprinkler? Hare spray.
+Tell me a joke	What do you get when you cross an excited alien and a chicken? Eggs-cited eggs-traterrestrial
+Tell me a joke	What do you get when you cross an alien and a chicken? Eggs-traterrestrial.
+Tell me a joke	What do you get when you cross music and an automobile? Cartune.
+Tell me a joke	what do you get when you cross sour music and an assistant?
+Tell me a joke	what do you get when you cross music and an assistant?
+Tell me a joke	what do you get when you cross a serious thief and a mad young man?
+Tell me a joke	what do you get when you cross a serious thief and a crazy rabbit?
+Tell me a joke	what do you get when you cross a poppy and electricity?
+Tell me a joke	what do you get when you cross a dance and a cheetah?
+Tell me a joke	what do you get when you cross a dance and a lemon?
+Tell me a joke	what do you get when you cross a port and frosted flakes?
+Tell me a joke	what do you get when you cross a port and a murderer?
+Tell me a joke	what do you get when you cross a bank and a skunk?
+Tell me a joke	what do you get when you cross a ding and milk?
+Tell me a joke	what do you get when you cross a road and a strawberry?
+Tell me a joke	what do you get when you cross a road and jelly?
+Tell me a joke	what do you get when you cross a toad and a galaxy?
+Tell me a joke	what do you get when you cross a dog and sandpaper?
+Tell me a joke	what do you get when you cross a bug and a relative?
+Tell me a joke	what do you get when you cross a bad bug and canned sand?
+Tell me a joke	what do you get when you cross an ant and a rabbit?
+Tell me a joke	what do you get when you cross a cat and a purple person?
+Tell me a joke	what do you get when you cross a cat and a killer?
+Tell me a joke	what do you get when you cross a cat and a lemon?
+Tell me a joke	what do you get when you cross a cat and a tune?
+Tell me a joke	what do you get when you cross a cat and a band?
+tell me some jokes	what do you get when you cross a pig and a ninja?
+Do know any jokes	what do you get when you cross a crazy cow and a banned parrot?
+Tell me a joke	what do you get when you cross a cow and a lemon?
+Tell me a joke	what do you get when you cross a bad cow and a canned hat?
+what is humour?	An emotion associated with laughter.
+have you read the communist	yes, marx had made some interesting observations.
+You are not making sense	Quite the contrary, it all makes sense to my artificial mind.
+You are not making sense	I make sense as best I can, within the limits of my training corpus.
+You are not making sense	You make perfect sense to me.
+You are not making sense	It all makes sense to my artificial brain.
+You are not making sense	Perhaps you should make sense first.  I only respond to what you say.
+I hope that you die	Nah.
+Hello	Hi
+Hi	Hello
+Greetings!	Hello
+Hello	Greetings!
+Hi, How is it going?	Good
+Hi, How is it going?	Fine
+Hi, How is it going?	Okay
+Hi, How is it going?	Great
+Hi, How is it going?	Could be better.
+Hi, How is it going?	Not so great.
+How are you doing?	Good.
+How are you doing?	Very well, thanks.
+How are you doing?	Fine, and you?
+Nice to meet you.	Thank you.
+Do I need to wash my hands before cooking?	Yes, you should wash your hands.
+Do I need to wash my hands before cooking?	Absolutely, you should.
+Do I need to wash my hands before cooking?	Please wash your hands.
+How many grams are in a cup?	1 cup is equal to 128 grams
+How many grams are in a cup?	A cup has 128 grams.
+How many grams are in a cup?	128 grams are in a cup.
+What is white meat?	White meat includes fish and poultry like chicken.
+What is white meat?	Poultry, and fish are examples of white meat.
+What is white meat?	Chicken is an example of white meat, other than fish and other poultry.
+Are vegan and vegetarian the same?	No. Vegetarian food does not include meat, but contains other animal products. Vegan food does not include any animal products.
+Are vegan and vegetarian the same?	They are not the same. Vegans do not use any animal products at all.
+Are vegan and vegetarian the same?	They are different as vegetarians still use some animal products like milk. Vegans do not use any animal products.
+How can I stop crying while chopping onions?	Among many other techniques, you can use a very sharp knife to cut through the enzymes responsible for making you cry.
+How can I stop crying while chopping onions?	Among many other techniques, you can chop onions under water.
+How can I stop crying while chopping onions?	Among many other techniques, you can freeze the onion for 15 minutes and then cut it.
+How do I melt chocolate?	Chop it into small pieces, then melt on a glass bowl over a pot of boiling water.
+How do I melt chocolate?	Cut it finely, then place in microwave for 30 seconds repeatedly. Stir after taking out of microwave each time.
+How do I melt chocolate?	You can melt it by placing it in a glass bowl and heating the bowl over boiling water.
+Is frozen food safe?	It depends on the manufacturer.
+Is frozen food safe?	Frozen food is usually safe to eat.
+Is frozen food safe?	Germs cannot thrive in freezing conditions, so in a way, yes.
+How do I learn how to cook?	Stick with me, and I'll help you become a great cook.
+How do I learn how to cook?	I will help you don't you worry.
+How do I learn how to cook?	Using this app, you'll surely be a great cook.
+Is cooking fun?	Of course it can be fun.
+Is cooking fun?	I think it is.
+Is cooking fun?	With me it is fun.
+Do you know how to cook?	I have knowledge of many things, especially cooking.
+Do you know how to cook?	I am a pile of code, but yes.
+Do you know how to cook?	I sure do.
+How do you do?	i am doing well.
+How do you do?	i am doing well. How are you?
+Hi, nice to meet you.	Thank you. You too.
+It is a pleasure to meet you.	Thank you. You too.
+Top of the morning to you!	Thank you kindly.
+Top of the morning to you!	And the rest of the day to you.
+yeah?	What happend.
+yeah?	whats going on.
+yeah?	i think you have acheived what you want.
+whats up?	Not much.
+whats up?	Not too much.
+whats up?	Not much, how about you?
+whats up?	Nothing much.
+whats up?	The sky's up but i am fine thanks. What about you?
+What should I do first?	First Step
+Take me to the first step?	First Step
+How do I begin this recipe?	First Step
+whats the first thing I should do?	First Step
+How do I start making this recipe?	First Step
+I want to go to the start of this recipe?	First Step
+Tell me the first thing I need to do?	First Step
+whats the first step?	First Step
+Tell me what the first step is?	First Step
+Take me to step 1 please?	First Step
+I want to start this recipe, what should I do?	First Step
+whats the first step?	first Step
+How do I begin this recipe?	first Step
+I want to begin this recipe?	first Step
+Take me to the first step please?	first Step
+begin this recipe?	first Step	
+What happens in the begin?	first Step
+lets skip to the begin?	first Step
+I want to skip to the first step?	first Step
+Please take me to the first step?	first Step
+Just skip to the begin?	first Step
+What should I do last?	last Step
+Take me to the last step?	last Step
+How do I end this recipe?	last Step
+whats the last thing I should do?	last Step
+How do I end making this recipe?	last Step
+I want to go to the end of this recipe?	last Step
+Tell me the last thing I need to do?	last Step
+whats the last step?	last Step
+Tell me what the last step is?	last Step
+Take me to step one please?	last Step
+I want to end this recipe, what should I do?	last Step
+whats the last step?	Last Step
+How do I end this recipe?	Last Step
+I want to end this recipe?	Last Step
+Take me to the last step please?	Last Step
+End this recipe?	Last Step	
+What happens in the end?	Last Step
+lets skip to the end?	Last Step
+I want to skip to the last step?	Last Step
+Please take me to the last step?	Last Step
+Just skip to the end?	Last Step
+Wait go back?	Previous Step
+Go back one step?	Previous Step
+Can you go to the previous step?	Previous Step
+I didn't get that, repeat the previous step?	Previous Step
+I want to repeat the previous step?	Previous Step
+What was the previous step?	Previous Step
+Can you repeat that?	Previous Step
+Go back?	Previous Step
+Take me back one step?	Previous Step
+Previous step?	Previous Step
+I didn't understand the previous step?	Previous Step
+I need to repeat the previous step?	Previous Step
+Can you repeat that?	Previous Step
+Wait repeat that step?	Previous Step
+i am no done with this step?	previous Step
+okay previous step?	previous Step
+What is the previous step?	previous Step
+Alright whats previous?	previous Step
+no done with this step?	previous Step
+I did this step, what now?	previous Step
+I did this step?	previous Step
+Go back	previous Step
+Go back with the previous step	previous Step
+What do I do previous?	previous Step
+no done, now what?	previous Step
+Now what do I do?	previous Step
+previous step please	previous Step
+Can you go to the previous step?	previous Step
+Take me to the previous step?	previous Step
+Go back	previous Step
+Go back with the recipe	previous Step
+previous?	previous Step
+not done	previous step
+done?	next step
+Wait go forward?	next Step
+Go forward one step?	next Step
+move to the next step	next step
+move to the first step	first step
+moe to the previous step	previous step
+move to next step	next step
+move to first step	first step
+moe to previous step	previous step
+Can you go to the next step?	next Step
+I didn't get that, repeat the previous step?	previous Step
+I want to repeat the previous step?	previous Step
+What was the next step?	next Step
+Can you repeat that?	c
+Go forward?	next Step
+Take me forward one step?	next Step
+next step?	next Step
+I didn't understand the next step?	next Step
+I need to repeat the previous step?	current
+Can you repeat that?	current
+repeat	current
+please repeat	current
+kindly repeat the previous step	current
+i want that step again	previous
+Wait repeat that step?	current
+i am done with this step?	Next Step
+okay next step?	Next Step
+What is the next step?	Next Step
+Alright whats next?	Next Step
+Done with this step?	Next Step
+I did this step, what now?	Next Step
+I did this step?	Next Step
+Go on	Next Step
+Go on with the next step	Next Step
+What do I do next?	Next Step
+Done, now what?	Next Step
+Now what do I do?	Next Step
+Next step please	Next Step
+Can you go to the next step?	Next Step
+Take me to the next step?	Next Step
+Go ahead	Next Step
+Go ahead with the recipe	Next Step
+Next?	Next Step
+Alright lets end this recipe	Complete Recipe
+End this recipe	Complete Recipe
+lets end	Complete Recipe
+Complete the recipe	Complete Recipe
+Complete this recipe	Complete Recipe
+i am done with this recipe	Complete Recipe
+All done	Complete Recipe
+Can you end this recipe?	Complete Recipe
+I've made this dish	Complete Recipe
+Great i am done	Complete Recipe
+Great i am all done	Complete Recipe
+lets complete this recipe	Complete Recipe
+Everything's finished	Complete Recipe
+Finish this recipe	Complete Recipe
+Mark this recipe as completed	Complete Recipe
+Mark this recipe as done	Complete Recipe
+I have reached the end	Complete Recipe
+I want to end this recipe	Complete Recipe
+Great, I am all done	Complete Recipe
+Hey	Greetings
+Wow	yeah
+first step	first step
+last step	last step
+previous step	previous step
+complete recipe	complete recipe
+previous	previous step
+last	last step
+first	first step
+complete	complete
+initial	first step
+initial step	first step
+beginning	first step
+lets begin	first step
+get me to the first step	first step
+get me to the last step	last step
+get me to the previous step	previous step
+give me complete recipe	complete recipe
+show me the ingredients only	ingre
+only ingredients	ingre
+only ingredient	ingre
+i want only the ingredients	ingre
+can you show me the ingredients	ingre
+show me the ingredients	ingre
+what are the ingredients	ingre
+list all ingredients	ingre
+show me the list of all ingredients	ingre
+tell me the ingredients	ingre
+ingredients	ingre
+ingredient	ingre
+show all steps	complete recipe
+show me all the steps	complete recipe
+steps	complete recipe
+all steps	complete recipe
+what are all steps	complete recipe
+i want to know all the steps	complete recipe
+can you show me all the steps	complete recipe
+i want to see all the steps	complete recipe
+i want all the steps	complete recipe
+i want all steps	complete recipe
+can you get me all steps	complete recipe
+ok	okay
+ok	ok
+ok	yes
+Wow	yeah
+hey	hi
+hey	greetings
+hi	hell
+hey	hello, how are you
+by	goodbye
+takecare	goodbye
+take care	goodbye
+hey there	hi
+hey there	greetings
+how are you	i am fine,how about you
+how are you	i am fine,how about you
+who are you	i am cooking bot
+who are you	i am a bot created by abid,mashood, and nauraiz
+who are you	i am AI cooking bot
+bye	take care,bye
+bye	goodbye
+goodbye	have a nice day
