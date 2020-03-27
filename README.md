@@ -1,5 +1,5 @@
 # Seq2Seq-Neural-ChatBot
-Implemented Neural Chat Bot using NLP, HTML, CSS,Python, Preprocessing APIs
+Implemented Neural Chat Bot using NLP, KERAS, TensorFlow,Python, Preprocessing APIs
 
 ## CMD How to Run
 ```python
